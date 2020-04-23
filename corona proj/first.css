@@ -1,0 +1,66 @@
+body {
+  background-image: url("corona.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+  background-attachment: fixed;
+  margin: 4%;
+}
+a.box{ border-style: solid;color: black; background-color:lightblue; padding: 10px; border-color: black; }
+p.newp{
+	background-color: white;
+	color: black;
+	opacity: 60%;
+	border-style: solid;
+	padding: 40px;
+	margin: 10px;
+	
+}
+h1{ 
+background-color: white;
+color: black;
+opacity: 60%;
+border-style:solid;
+padding: 10px;}
+div.bd{
+	color: white;
+
+}
+div.bor{
+	background-color: white;
+	color: black;
+	opacity: 60%;
+	border-style: solid;
+	padding: 20px;
+	margin: 40px;
+	}
+	div.media-body{background-color: white;
+color: black;
+opacity: 60%;
+border-style:solid;
+padding: 10px;
+margin-bottom: 5px;
+
+	}
+	
+img{
+	border-color: black;
+	border-style: solid;
+}
+h2{
+	color: white;
+
+}
+h4.head4{
+	color: white;
+	margin: 10px;
+}
+
+div.ndiv{
+	background-color: white;
+	color: black;
+	opacity: 60%;
+	border-style: solid;
+	padding: 20px;
+	margin: 40px;
+
+}
